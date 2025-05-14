@@ -1,6 +1,7 @@
-# google sheet link = https://docs.google.com/spreadsheets/d/1lKN8mEXUdjQN_Ivbculxds7z9sEBgaBCtVuAM-ua2xk/edit?usp=sharing
+# google sheet link
+    - https://docs.google.com/spreadsheets/d/1lKN8mEXUdjQN_Ivbculxds7z9sEBgaBCtVuAM-ua2xk/edit?usp=sharing
 
-# Database PostgreSQL = 
+# Database PostgreSQL
     - database = fashiondb
     - username = daffa
     - password = #Deuverh12
