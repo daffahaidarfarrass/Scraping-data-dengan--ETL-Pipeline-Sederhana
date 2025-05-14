@@ -46,3 +46,5 @@
         - Lalu, akan muncul folder baru htmlcov
         - Klik, index.html untuk melihat hasil
         - Coverage report terakhir 89%
+# Untuk file google-sheets-api.json silahkan bikin sendiri. Melalui google service
+# Laman website: https://fashion-studio.dicoding.dev.  
