@@ -1,6 +1,6 @@
 # 🧪 Scraping Data dengan ETL Pipeline Sederhana
 
-Proyek ini merupakan implementasi sederhana dari proses **ETL (Extract, Transform, Load)** untuk pengambilan data dari web (web scraping), transformasi data, dan penyimpanannya ke dalam format CSV.
+Proyek ini merupakan implementasi sederhana dari proses ETL (Extract, Transform, Load) untuk pengambilan data dari web (web scraping), transformasi data, dan penyimpanannya ke dalam format CSV, Database PostgreSQL, dan Google Sheet untuk dianalisis lebih lanjut.
 
 ## 📌 Tujuan Proyek
 
